@@ -501,7 +501,7 @@ export const CONTACT_INFO = {
   address: { en: 'Bansdroni, Kolkata', bn: 'বাঁশদ্রোণী, কলকাতা' },
   phone: '9830272609',
   website: 'animeshsikder.com',
-  email: 'music@animeshsikder.com',
+  email: 'dr.animeshsikder@gmail.com',
   googleForm: 'https://docs.google.com/forms/d/e/1FAIpQLSe9Igy_-hvbHgyU2Xg3sv1QtNKUTql6lqmPetV1YACJ4_tIYQ/viewform?usp=header',
   social: {
     facebook: 'https://www.facebook.com/animesh.sikder',
